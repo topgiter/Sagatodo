@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/.vscode/
+/node_modules/
+/dist/
+/.nyc_output/
+/coverage/
+/yarn-error.log
