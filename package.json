@@ -1,7 +1,6 @@
 {
   "name": "todoapp",
   "description": "",
-  "homepage": "https://arnabk.github.io/todoapp",
   "dependencies": {
     "immutable": "^3.8.1",
     "localforage": "^1.5.0",
